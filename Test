@@ -43,7 +43,7 @@
     
             embedded_svc.init(
                 'https://universidadhispanoamericana.my.salesforce.com',
-                'https://universidadhispanoamericana.my.site.com/ESWBotWeb1697232215626vforcesite',
+                'https://universidadhispanoamericana.my.site.com',
                 gslbBaseURL,
                 '00D5f000006Pl6r',
                 'WEBCHAT',
